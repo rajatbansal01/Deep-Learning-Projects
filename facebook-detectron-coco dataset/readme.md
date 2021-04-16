@@ -1,1 +1,1 @@
-![image](detectron.jpg)
+![image](detectron.png)
