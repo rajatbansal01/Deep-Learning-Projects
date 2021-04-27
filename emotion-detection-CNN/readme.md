@@ -2,4 +2,4 @@
 Dataset is from Kaggle.
 Datset Link: [Emotion data](https://www.kaggle.com/deadskull7/fer2013)
 
-![image](emotion.png)
+![image](emotion.JPG)
